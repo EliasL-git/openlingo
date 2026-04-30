@@ -1,0 +1,13 @@
+{
+  "id": "en-sv",
+  "sourceLanguage": "en",
+  "targetLanguage": "sv",
+  "title": "English to Swedish",
+  "units": [
+    {
+      "id": "unit-1",
+      "title": "Foundations",
+      "description": "Greetings, basic nouns, and simple phrases."
+    }
+  ]
+}
