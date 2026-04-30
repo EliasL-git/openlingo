@@ -1,0 +1,13 @@
+{
+  "id": "en-es",
+  "sourceLanguage": "en",
+  "targetLanguage": "es",
+  "title": "English to Spanish",
+  "units": [
+    {
+      "id": "unit-1",
+      "title": "Foundations",
+      "description": "Greetings, basic nouns, and simple phrases."
+    }
+  ]
+}

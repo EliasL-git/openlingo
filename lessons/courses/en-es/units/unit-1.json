@@ -1,0 +1,23 @@
+{
+  "id": "unit-1",
+  "lessons": [
+    {
+      "id": "lesson-1",
+      "title": "Hello and Goodbye",
+      "xp": 10,
+      "skills": ["greetings", "introductions"],
+      "challenges": [
+        {
+          "type": "translate",
+          "prompt": "Hello",
+          "answer": "Hola"
+        },
+        {
+          "type": "translate",
+          "prompt": "Goodbye",
+          "answer": "Adios"
+        }
+      ]
+    }
+  ]
+}
